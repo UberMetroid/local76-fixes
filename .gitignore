@@ -1,0 +1,9 @@
+target/
+build/
+**/*.rs.bk
+*.pdb
+.DS_Store
+Thumbs.db
+
+# Don't commit the deep-dive review files; they are local-only artifacts
+.pi-*.md
